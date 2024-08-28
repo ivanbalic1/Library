@@ -1,3 +1,0 @@
-# Knjiznica_SQL
-
-SQL
